@@ -1,0 +1,126 @@
+/* Page Setup - Icons - Section Display
+============================================*/
+h2 {
+  line-height: 28px;
+}
+.col-md-6.extra-spacing {
+  margin-bottom: 30px;
+}
+.why-classup-icon,
+.how-it-works-icon,
+.awards-affiliates-icon {
+  max-width: 90%;
+  max-height: 150px;
+  margin-bottom: 20px;
+}
+.steps-explained {
+  margin-bottom: 50px;
+}
+
+
+/* Navbar Logo
+============================================*/
+.logo {
+  width: 115px;
+}
+#tf-menu > div > div.navbar-header > a {
+  padding: 5px 15px;
+}
+
+
+/* Home Section
+============================================*/
+#tf-home {
+  background: url("../img/home/background.png");
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#tf-home .content {
+  padding: 150px 0 50px;
+}
+button.sign-up-top {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+}
+#tf-home > div > div > a {
+  margin-top: 100px;
+}
+
+
+/* Why ClassUp
+============================================*/
+#tf-why-classup {
+  padding: 50px 0 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+.joining-reasons {
+  padding: 0 20px;
+  color: #5d5d5d;
+}
+
+
+/* About Us Section
+============================================*/
+.app-screenshot {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+/* How it Works Section
+============================================*/
+#tf-how-it-works {
+  padding: 50px 0 30px;
+  background-color: #FFCC80;
+  color: #FFFFFF;
+  background: url("../img/how-it-works/background.png");
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.instructions {
+  padding: 0 20px;
+  margin-bottom: 50px;
+  color: #FFFFFF;
+}
+.how-does-it-work-sign-up {
+  margin-bottom: 50px;
+}
+
+
+/* Awards & Affiliate Section
+============================================*/
+#tf-awards-affiliate {
+  padding: 50px 0 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+
+/* Contact Section
+============================================*/
+#mc-embedded-subscribe {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.subscribe-button {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+  margin: 0;
+}
+#tf-contact .form-control {
+  border-radius: 0;
+  font-size: 20px;
+  height: 54px;
+  margin: 10px 0;
+}
