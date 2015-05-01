@@ -58,7 +58,8 @@ button.sign-up-top {
 /* Terms Section
 ============================================*/
 #tf-terms {
-  padding: 50px 0 30px;
+  padding-top: 50px;
+  margin-bottom: 50px;
   background-attachment: fixed;
 }
 
